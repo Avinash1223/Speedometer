@@ -1,0 +1,55 @@
+/* Write your CSS here */
+
+.Bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  height: 40vh;
+  width: 70vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.AccelerateButton {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.breakButton {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.speed {
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+}
+
+.limit {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
